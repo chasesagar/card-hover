@@ -27,7 +27,7 @@ This is a real-time clock, which means that the clock sets its own time accordin
 
 ## Demo
 
-![Product Image](https://github.com/chasesagar/Neumorphism-Analog-Clock/blob/master/demo-1.png)
+![Product Image](https://github.com/chasesagar/card-hover/blob/master/assets/demo.gif)
 
 ## Quick Start
 
